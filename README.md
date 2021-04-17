@@ -1,3 +1,3 @@
-### Welcome 👋
-[Personal Website](https://qinjian.xyz/)
-![ME](profile.jpg)
+### Welcome 👋 
+## [Here is my website](https://qinjian.xyz/)
+![ME](profile.png)
