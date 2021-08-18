@@ -1,2 +1,2 @@
-# [Personal Website](https://qinjian.xyz/)
-## Welcome
+# [Welcome!](https://qinjian.xyz/)
+
