@@ -1,2 +1,5 @@
-# [Welcome!](https://qinjian.xyz/)
-
+# Welcome
+### Instagram: qinjianxyz
+### Wechat: qinjianxyz
+### Email: qinjianxyz@gmail.com
+### Portfolio: https://qinjian.xyz
