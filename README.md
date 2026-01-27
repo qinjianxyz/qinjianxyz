@@ -1,2 +1,1 @@
-# Welcome: https://qinjian.xyz
-# LinkedIn: https://www.linkedin.com/in/qinjianxyz/
+# AI Agent Engineer, Located in the Bay Area, Reach out via LinkedIn for Collaboration.
