@@ -1,1 +1,1 @@
-# AI Agent Engineer, Located in the Bay Area, Reach out via LinkedIn for Collaboration. Building SALMON - Infinite Scale for Intelligence.
+# AI Agent Engineer, Located in the Bay Area, Reach out via LinkedIn for Collaboration. Enterprise OS is the autonomous operating system for organizations. AI agent teams with enforceable processes, compounding intelligence, and institutional memory. Your entire operation — running 24/7.
