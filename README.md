@@ -1,7 +1,7 @@
 # Jian Qin (Ray)
 
-I am building Enterprise OS — an autonomous operating system that runs organizations using AI agents. 
+I am building Anvil Sim, Enterprise OS, and other AI-native software systems across simulation, engineering workflows, and industrial intelligence.
 
-The system operates continuously, managing infrastructure, shipping software, and serving customers. It relies on machine-enforced processes, constitutional constraints, and git-backed institutional memory to ensure reliability and safety. The core philosophy is that organizations should be able to scale intelligence without needing to linearly scale headcount.
+My goal is to ship technically serious products with real leverage: software that helps engineers work faster, systems that turn intelligence into execution, and frontier wedges that stay grounded in the realities of useful deployment rather than hype.
 
 [qinjianxyz.github.io](https://qinjianxyz.github.io)
