@@ -4,7 +4,7 @@ I’m building Lightbulb R&D: applied physical-AI products across engineering si
 
 Current work:
 - Anvil Sim: simulation and validation infrastructure for engineering teams
-- Rove Dexterity Lab: robotic manipulation systems for useful physical work
+- Rove Robotics Lab: robotic manipulation systems for useful physical work
 - Enterprise OS: an execution harness for turning research into shipped prototypes
 
 The thesis: frontier AI becomes valuable when it is grounded in physics, workflows, and real deployment.
