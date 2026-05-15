@@ -10,4 +10,4 @@ Current work:
 The thesis: frontier AI becomes valuable when it is grounded in physics, workflows, and real deployment.
 
 [qinjianxyz.github.io](https://qinjianxyz.github.io)
-[https://anvil-sim.vercel.app/](https://anvil-sim.vercel.app/)
+[anvil-sim.vercel.app](https://anvil-sim.vercel.app)
